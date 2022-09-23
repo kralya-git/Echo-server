@@ -112,6 +112,6 @@ while stop_command_send is False:
                 my_socket.close()
                 print_log("Остановка сервера 127.0.0.1")
                 break
-            conn.send((msg*2).encode())
+            conn.send((msg).encode())
             print_log("Отправка данных клиенту" + addr[0] + ":" + str(addr[1]) + " : " + msg)
     print_log("Отключение клиента: " + addr[0] + ":" + str(addr[1]))
