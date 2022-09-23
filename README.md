@@ -18,6 +18,19 @@
 + Отключение клиента;
 + Остановка сервера.
 
+![image](https://user-images.githubusercontent.com/113534398/191899767-e0df3e5a-0ec5-4385-98f3-0f5b491c3f96.png)
+
+![image](https://user-images.githubusercontent.com/113534398/191899734-a1b494f4-0bd7-42d8-b32b-f62c74e5ad48.png)
+
+![image](https://user-images.githubusercontent.com/113534398/191899960-2fc5c058-8be2-42d9-b289-6f3f9c7ee68f.png)
+
+![image](https://user-images.githubusercontent.com/113534398/191900086-52cd1b1b-cb31-4bab-9eb3-cea4026fe697.png)
+
+При повторном подключении:
+
+![image](https://user-images.githubusercontent.com/113534398/191899859-ad0357ff-3df9-45fa-81a2-f97032befa14.png)
+
+
 3. Напишите простой TCP-клиент, который устанавливает соединение с сервером, считывает строку со стандартного ввода и посылает его серверу.
 4. Клиент должен выводить в консоль служебные сообщения (с пояснениями) при наступлении любых событий:
 
